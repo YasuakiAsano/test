@@ -4,5 +4,6 @@
 			   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 	<fx:Declarations>
 		<!-- 非ビジュアルエレメント (サービス、値オブジェクトなど) をここに配置 -->
+		<!-- 更新を確認してみる -->
 	</fx:Declarations>
 </s:Application>
