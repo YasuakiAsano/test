@@ -6,4 +6,5 @@
 		<!-- 非ビジュアルエレメント (サービス、値オブジェクトなど) をここに配置 -->
 		<!-- 更新を確認してみる -->
 	</fx:Declarations>
+	<s:Label x="92" y="67" text="Ｇｉｔのテスト" width="137" height="42" fontSize="13"/>
 </s:Application>
